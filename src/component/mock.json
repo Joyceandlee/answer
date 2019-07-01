@@ -1,0 +1,419 @@
+{
+    "success": true,
+    "examId": 1434,
+    "qTypeQs": [{
+            "questions": [{
+                    "isRight": false,
+                    "userAnswer": "a",
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "C",
+                    "questionChoices": [
+                        { "choice": "A", "content": "供应过程" },
+                        { "choice": "B", "content": "喷泉模型" },
+                        { "choice": "C", "content": "提出瀑布模型" },
+                        { "choice": "D", "content": "测试计划" }
+                    ],
+                    "hint": "20世纪60年代末到80年代初,这一时期的主要成果体现为:提出瀑布模型。",
+                    "baseTypeName": "单选题",
+                    "id": 65184,
+                    "title": "<p>软件工程在20世纪60年代末到80年代初获得的主要成果有</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": false,
+                    "userAnswer": "b",
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "D",
+                    "questionChoices": [
+                        { "choice": "A", "content": "供应过程" },
+                        { "choice": "B", "content": "喷泉模型" },
+                        { "choice": "C", "content": "提出瀑布模型" },
+                        { "choice": "D", "content": "功能需求规约系统必须执行的功能" }
+                    ],
+                    "hint": "功能需求规约系统必须执行的功能。",
+                    "baseTypeName": "单选题",
+                    "id": 65185,
+                    "title": "<p>在销售管理系统需求文档中出现下列描述，属于设计约束范畴的是</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": false,
+                    "userAnswer": "c",
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "A",
+                    "questionChoices": [
+                        { "choice": "A", "content": "供应过程" },
+                        { "choice": "B", "content": "喷泉模型" },
+                        { "choice": "C", "content": "提出瀑布模型" },
+                        { "choice": "D", "content": "功能需求规约系统必须执行的功能" }
+                    ],
+                    "hint": "需求规约一般需要满足以下4个基本性质：重要性和稳定性程度、可修改的、完整的和一致的。",
+                    "baseTypeName": "单选题",
+                    "id": 65186,
+                    "title": "<p>需求规约的基本性质包括重要性和稳定性程度、一致的、完整的和</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": false,
+                    "userAnswer": "d",
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "B",
+                    "questionChoices": [
+                        { "choice": "A", "content": "供应过程" },
+                        { "choice": "B", "content": "喷泉模型" },
+                        { "choice": "C", "content": "提出瀑布模型" },
+                        { "choice": "D", "content": "功能需求规约系统必须执行的功能" }
+                    ],
+                    "hint": "在结构化分析方法中，加工是数据的变换单元。它接受输入的数据，对其进行处理，并产生输出。描述加工可采用“结构化自然语言、判定表、判定树”三种表达工具。",
+                    "baseTypeName": "单选题",
+                    "id": 65187,
+                    "title": "<p>在建模过程中，可用以描述加工的工具是</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": true,
+                    "userAnswer": "b",
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "B",
+                    "questionChoices": [
+                        { "choice": "A", "content": "供应过程" },
+                        { "choice": "B", "content": "耦合是指不同模块之间相互依赖程度的度量" },
+                        { "choice": "C", "content": "提出瀑布模型" },
+                        { "choice": "D", "content": "功能需求规约系统必须执行的功能" }
+                    ],
+                    "hint": "内聚指一个模块内部各成分之间相互关联程度的度量，耦合是指不同模块之间相互依赖程度的度量。",
+                    "baseTypeName": "单选题",
+                    "id": 65188,
+                    "title": "<p>指一个模块内部各成分之间相互关联程度的度量是</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": false,
+                    "userAnswer": "a",
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "D",
+                    "questionChoices": [
+                        { "choice": "A", "content": "供应过程" },
+                        { "choice": "B", "content": "喷泉模型" },
+                        { "choice": "C", "content": "提出瀑布模型" },
+                        { "choice": "D", "content": "功能需求规约系统必须执行的功能" }
+                    ],
+                    "hint": "N－S（盒图）用三种符号表达3种控制结构，PAD图用二维树形结构来表示程序的控制流。DFD（数据流图）用结构化分析方法表达了功能模型。",
+                    "baseTypeName": "单选题",
+                    "id": 65189,
+                    "title": "<p>结构化分析方法给出了一种能表达功能模型的工具是</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": false,
+                    "userAnswer": "c",
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "D",
+                    "questionChoices": [
+                        { "choice": "A", "content": "供应过程" },
+                        { "choice": "B", "content": "喷泉模型" },
+                        { "choice": "C", "content": "提出瀑布模型" },
+                        { "choice": "D", "content": "面向对象编程语言" }
+                    ],
+                    "hint": "面向对象方法是一种根据客体之间的关系来建造系统模型的系统化方法，面向对象方法源于面向对象编程语言。",
+                    "baseTypeName": "单选题",
+                    "id": 65190,
+                    "title": "<p>面向对象方法源于面向对象</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": false,
+                    "userAnswer": "c",
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "A",
+                    "questionChoices": [
+                        { "choice": "A", "content": "供应过程" },
+                        { "choice": "B", "content": "喷泉模型" },
+                        { "choice": "C", "content": "提出瀑布模型" },
+                        { "choice": "D", "content": "功能需求规约系统必须执行的功能" }
+                    ],
+                    "hint": "业务模型和系统模型之间具有整体／部分关系，即业务模型是整体，系统模型是业务模型的一个组成部分。",
+                    "baseTypeName": "单选题",
+                    "id": 65191,
+                    "title": "<p>使用用况图可以实现业务建模和系统建模，而得到业务模型和系统模型之间具有的关系是</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": true,
+                    "userAnswer": "b",
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "B",
+                    "questionChoices": [
+                        { "choice": "A", "content": "供应过程" },
+                        { "choice": "B", "content": "控制类" },
+                        { "choice": "C", "content": "提出瀑布模型" },
+                        { "choice": "D", "content": "功能需求规约系统必须执行的功能" }
+                    ],
+                    "hint": "RUP的分析类包括边界类、实体类和控制类，通过这一抽象层建造概念模型。",
+                    "baseTypeName": "单选题",
+                    "id": 65192,
+                    "title": "<p>RUP的分析类包括边界类、实体类和</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": false,
+                    "userAnswer": "b",
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "C",
+                    "questionChoices": [
+                        { "choice": "A", "content": "供应过程" },
+                        { "choice": "B", "content": "喷泉模型" },
+                        { "choice": "C", "content": "状态测试技术" },
+                        { "choice": "D", "content": "功能需求规约系统必须执行的功能" }
+                    ],
+                    "hint": "黑盒测试技术又称为功能测试技术，包括事务处理流程技术、定义域测试技术和状态测试技术。",
+                    "baseTypeName": "单选题",
+                    "id": 65193,
+                    "title": "<p>黑盒测试技术又称为功能测试技术，包括事务处理流程技术、定义域测试技术和</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": true,
+                    "userAnswer": "b",
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "B",
+                    "questionChoices": [
+                        { "choice": "A", "content": "供应过程" },
+                        { "choice": "B", "content": "喷泉模型" },
+                        { "choice": "C", "content": "提出瀑布模型" },
+                        { "choice": "D", "content": "功能需求规约系统必须执行的功能" }
+                    ],
+                    "hint": "教授、副教授、讲师三个有效等价类，所有不符合的值确定为一个无效等价类。",
+                    "baseTypeName": "单选题",
+                    "id": 65194,
+                    "title": "<p>在教师科研方案中规定对教授、副教授和讲师分别计算分数，做相应的处理，则根据黑盒测试中的等价类划分技术，下列划分正确的是</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": true,
+                    "userAnswer": "a",
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "A",
+                    "questionChoices": [{
+                            "choice": "A",
+                            "id": 406614,
+                            "questionId": 65195,
+                            "order": "a",
+                            "content": "需求规格说明书",
+                            "staticContent": "需求规格说明书",
+                            "shortContent": "需求规格说明书"
+                        },
+                        {
+                            "choice": "B",
+                            "id": 406615,
+                            "questionId": 65195,
+                            "order": "b",
+                            "content": "概要设计说明书",
+                            "staticContent": "概要设计说明书",
+                            "shortContent": "概要设计说明书"
+                        },
+                        {
+                            "choice": "C",
+                            "id": 406616,
+                            "questionId": 65195,
+                            "order": "c",
+                            "content": "详细设计说明书",
+                            "staticContent": "详细设计说明书",
+                            "shortContent": "详细设计说明书"
+                        },
+                        {
+                            "choice": "D",
+                            "id": 406617,
+                            "questionId": 65195,
+                            "order": "d",
+                            "content": "测试计划",
+                            "staticContent": "测试计划",
+                            "shortContent": "测试计划"
+                        }
+                    ],
+                    "hint": "有效性测试通常采用黑盒测试技术，主要看软件实现功能是否与需求规格说明书一致。",
+                    "baseTypeName": "单选题",
+                    "id": 65195,
+                    "title": "<p>有效性测试的目标是发现软件实现的功能与下列哪个选项不一致，正确的是</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": false,
+                    "userAnswer": null,
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "D",
+                    "questionChoices": [{
+                            "choice": "A",
+                            "id": 406618,
+                            "questionId": 65196,
+                            "order": "a",
+                            "content": "供应过程",
+                            "staticContent": "供应过程",
+                            "shortContent": "供应过程"
+                        },
+                        {
+                            "choice": "B",
+                            "id": 406619,
+                            "questionId": 65196,
+                            "order": "b",
+                            "content": "开发过程",
+                            "staticContent": "开发过程",
+                            "shortContent": "开发过程"
+                        },
+                        {
+                            "choice": "C",
+                            "id": 406620,
+                            "questionId": 65196,
+                            "order": "c",
+                            "content": "测试过程",
+                            "staticContent": "测试过程",
+                            "shortContent": "测试过程"
+                        },
+                        {
+                            "choice": "D",
+                            "id": 406621,
+                            "questionId": 65196,
+                            "order": "d",
+                            "content": "支持过程",
+                            "staticContent": "支持过程",
+                            "shortContent": "支持过程"
+                        }
+                    ],
+                    "hint": "】《ISO/IEC软件生存周期过程l2207—1995》标准按过程主体把软件生存周期过程分为基本过程、支持过程和组织过程。",
+                    "baseTypeName": "单选题",
+                    "id": 65196,
+                    "title": "<p>《ISO／EC软件生存周期过程12207－1995》标准按过程主体把软件生存周期过程分为基本过程、组织过程和</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": false,
+                    "userAnswer": null,
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "A",
+                    "questionChoices": [{
+                            "choice": "A",
+                            "id": 406622,
+                            "questionId": 65197,
+                            "order": "a",
+                            "content": "喷泉模型",
+                            "staticContent": "喷泉模型",
+                            "shortContent": "喷泉模型"
+                        },
+                        {
+                            "choice": "B",
+                            "id": 406623,
+                            "questionId": 65197,
+                            "order": "b",
+                            "content": "螺旋模型",
+                            "staticContent": "螺旋模型",
+                            "shortContent": "螺旋模型"
+                        },
+                        {
+                            "choice": "C",
+                            "id": 406624,
+                            "questionId": 65197,
+                            "order": "c",
+                            "content": "增量模型",
+                            "staticContent": "增量模型",
+                            "shortContent": "增量模型"
+                        },
+                        {
+                            "choice": "D",
+                            "id": 406625,
+                            "questionId": 65197,
+                            "order": "d",
+                            "content": "瀑布模型",
+                            "staticContent": "瀑布模型",
+                            "shortContent": "瀑布模型"
+                        }
+                    ],
+                    "hint": "喷泉模型体现软件创建所固有的迭代和无间隙特征，主要用于支持面向对象技术软件开发。",
+                    "baseTypeName": "单选题",
+                    "id": 65197,
+                    "title": "<p>在常见的软件开发模型中，主要用于支持面向对象技术软件开发的是</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                },
+                {
+                    "isRight": false,
+                    "userAnswer": null,
+                    "examTitle": "2018年10月真题及答案解析",
+                    "answer": "C",
+                    "questionChoices": [{
+                            "choice": "A",
+                            "id": 406626,
+                            "questionId": 65198,
+                            "order": "a",
+                            "content": "已执行级",
+                            "staticContent": "已执行级",
+                            "shortContent": "已执行级"
+                        },
+                        {
+                            "choice": "B",
+                            "id": 406627,
+                            "questionId": 65198,
+                            "order": "b",
+                            "content": "已定义级",
+                            "staticContent": "已定义级",
+                            "shortContent": "已定义级"
+                        },
+                        {
+                            "choice": "C",
+                            "id": 406628,
+                            "questionId": 65198,
+                            "order": "c",
+                            "content": "已管级",
+                            "staticContent": "已管级",
+                            "shortContent": "已管级"
+                        },
+                        {
+                            "choice": "D",
+                            "id": 406629,
+                            "questionId": 65198,
+                            "order": "d",
+                            "content": "已定量管理级",
+                            "staticContent": "已定量管理级",
+                            "shortContent": "已定量管理级"
+                        }
+                    ],
+                    "hint": "0级：未完成等级1级：已执行等级2极：已管理等级3级：已定义等级4级：已定量管理级5级：持续优化级",
+                    "baseTypeName": "单选题",
+                    "id": 65198,
+                    "title": "<p>CMMI组织过程改善的成熟度等级中的2级是</p>",
+                    "baseType": 1,
+                    "isFavorite": false
+                }
+            ],
+            "title": "一、单项选择题：本大题共15小题，每小题2分，共30分．",
+            "baseType": 1
+        },
+        {
+            "questions": [],
+            "title": "二、填空題：本大题共20空，每空1分，共20分。",
+            "baseType": 3
+        },
+        {
+            "questions": [],
+            "title": "三、简答题：本大题共6小题，每小题5分，共30分。",
+            "baseType": 3
+        },
+        {
+            "questions": [],
+            "title": "四、综合应用题：本大题共2小题，每小题10分，共20分。",
+            "baseType": 3
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.detail li:active {
+    background: skyblue
+}
+
+.card {
+    position: fixed;
+    bottom: 20%;
+    left: 50%;
+    width: 80px;
+    height: 40px;
+    margin-left: -40px;
+    background: skyblue;
+    border: none;
+    border-radius: 5px;
+}
+
+.result {
+    position: fixed;
+    bottom: 10%;
+    left: 50%;
+    width: 80px;
+    height: 40px;
+    margin-left: -40px;
+    background: skyblue;
+    border: none;
+    border-radius: 5px;
+}
+
+.green {
+    background: lightseagreen
+}
+
+.red {
+    background: red;
+}
+
+.idx {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    border: 1px solid #000;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.active {
+    background: skyblue
+}
